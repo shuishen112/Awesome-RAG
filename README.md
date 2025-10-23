@@ -20,6 +20,19 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 
 #### attack the RAG system
 
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [Attacking open-domain question answering by injecting misinformation](https://arxiv.org/pdf/2510.13217) | 2025 | Arxiv | no Run|
+| [{PoisonedRAG}: Knowledge corruption attacks to {Retrieval-Augmented} generation of large language models](https://www.usenix.org/conference/usenixsecurity25/presentation/zou-poisonedrag) | 2023 | Arxiv | no Run|
+| [Poisoning Retrieval Corpora by Injecting Adversarial Passages](https://arxiv.org/pdf/2310.19156) | 2023 | Arxiv | no Run|
+| [Phantom: General Backdoor Attacks on Retrieval Augmented Language Generation](https://arxiv.org/pdf/2405.20485) | 2025 | Arxiv | no Run|
+| [Trojanrag: Retrieval-augmented generation can be backdoor driver in large language models](https://arxiv.org/pdf/2405.13401) | 2024 | Arxiv | no Run|
+| [" Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417) | 2024 | Arxiv | no Run|
+| [Badrag: Identifying vulnerabilities in retrieval augmented generation of large language models](https://arxiv.org/pdf/2406.00083) | 2024 | Arxiv | no Run|
+
+
+
+
 
 
 #### Confidence score
