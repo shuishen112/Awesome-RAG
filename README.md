@@ -16,6 +16,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [Making Retrieval-Augmented Language Models Robust to Irrelevant Context](https://arxiv.org/pdf/2310.01558) | 2023 | ICLR | no Run|
 | [Large language models can be easily distracted by irrelevant context](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | 2024 |  ICML | |
 | [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210) | 2024 | EMNLP | no Run|
+| [RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects](https://arxiv.org/pdf/2501.18365?) | 2025 | Arxiv | no Run|
 
 #### attack the RAG system
 
