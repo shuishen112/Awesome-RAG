@@ -33,6 +33,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [Retrieval augmented language model pre-training](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | 2024 |  ICML | |
+| [LaSeR: Reinforcement Learning with Last-Token Self-Rewarding](https://www.arxiv.org/pdf/2510.14943) | 2025 |  Arxiv | [code](https://github.com/RUCBM/LaSeR)|
 
 
 
