@@ -29,6 +29,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [Trojanrag: Retrieval-augmented generation can be backdoor driver in large language models](https://arxiv.org/pdf/2405.13401) | 2024 | Arxiv | no Run|
 | [" Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417) | 2024 | Arxiv | no Run|
 | [Badrag: Identifying vulnerabilities in retrieval augmented generation of large language models](https://arxiv.org/pdf/2406.00083) | 2024 | Arxiv | no Run|
+| [TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](https://arxiv.org/abs/2405.13401) | 2025 | Arxiv | no Run|
 
 
 
