@@ -33,9 +33,6 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 
 
 
-
-
-
 #### Confidence score
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
@@ -43,6 +40,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [DRAGIN: Dynamic Retrieval Augmented Generation based on the Information Needs of Large Language Models ](https://arxiv.org/pdf/2403.10081#page=10.70) | 2024 | ACL oral | no Run|
 | [Active Retrieval Augmented Generation](https://arxiv.org/pdf/2305.06983) | 2023 |  | no Run|
 | [How can we know when language models know? on the calibration of language models for question answering](https://aclanthology.org/2021.tacl-1.57/) | 2021 | TACL | no Run|
+| [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884) | 2024 | Arxiv | no Run|
 
 #### Retrieval-Augmented Language Model Pre-training
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
@@ -72,3 +70,9 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [LLM-GUIDED HIERARCHICAL RETRIEVAL](https://arxiv.org/pdf/2510.13217) | 2025 | Arxiv | no Run|
+
+## Hallucination
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models](https://arxiv.org/pdf/2303.08896) | 2024 | Arxiv | no Run|
+| [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0.pdf) | 2024 | Arxiv | no Run|
