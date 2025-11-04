@@ -41,6 +41,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [Active Retrieval Augmented Generation](https://arxiv.org/pdf/2305.06983) | 2023 |  | no Run|
 | [How can we know when language models know? on the calibration of language models for question answering](https://aclanthology.org/2021.tacl-1.57/) | 2021 | TACL | no Run|
 | [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884) | 2024 | Arxiv | no Run|
+| [Confident Adaptive Language Modeling](https://arxiv.org/abs/2207.07061) | 2022 | NeurIPS | no Run|
 
 #### Retrieval-Augmented Language Model Pre-training
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
