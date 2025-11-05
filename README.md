@@ -6,7 +6,9 @@ This is a repo to show the recent RAG approaches. There are several research lin
 
 ### Robust RAG
 
-It have been proved that the LLM can be easily distracted by irrelevant context. To alleviate this, there are several methods to make the RAG more robust. 
+Retreival augment generation (RAG) enhance the LLMs by retrived relevant documents from external knowledge base. However, the external knowledge is not always reliable. Recent research indicates that RAG systems are vulnerable to adversarial manipulation at both input and corpus level. Attack strategies can be broadly categorized into two types: input-level attacks and corpus-level attacks. At the same time, a variety of defense strategies have been proposed to enhance the robustness of RAG systems. RobustRAG introduces an isolate-then-aggregate framework. 
+
+
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [Making Retrieval-Augmented Language Models Robust to Irrelevant Context](https://arxiv.org/pdf/2310.01558) | 2023 | ICLR | no Run|
@@ -17,11 +19,12 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [Search-in-the-Chain: Interactively Enhancing Large Language Models with Search for Knowledge-intensive Tasks](https://arxiv.org/pdf/2304.14732) | 2025 | WWW | no Run|
 | [Corrective Retrieval Augmented Generation(CRAG)](https://arxiv.org/pdf/2401.15884) | 2024 | Arxiv | no Run|
 | [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210) | 2024 | EMNLP | no Run|
-| [RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects](https://arxiv.org/pdf/2501.18365?) | 2025 | Arxiv | no Run|
-| [ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search](https://arxiv.org/abs/2509.23519) | 2025 | NeurIPS | no Run|
+| [RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects](https://arxiv.org/pdf/2501.18365) | 2025 | Arxiv | no Run|
 | [Astute rag: Overcoming imperfect retrieval augmentation and knowledge conflicts for large language models](https://arxiv.org/pdf/2410.07176) | 2024 | Arxiv | no Run|
 | [Instructrag: Instructing retrieval-augmented generation with explicit denoising](https://arxiv.org/abs/2406.13629) | 2025 | ICLR | no Run|
 | [TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.00879) | 2025 | Arxiv | no Run|
+| [ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search](https://arxiv.org/abs/2509.23519) | 2025 | NeurIPS | no Run|
+| [SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG](https://arxiv.org/abs/2510.09710) | 2025 | NeurIPS | no Run|
 
 #### attack the RAG system
 
@@ -32,7 +35,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [Poisoning Retrieval Corpora by Injecting Adversarial Passages](https://arxiv.org/pdf/2310.19156) | 2023 | Arxiv | no Run|
 | [Phantom: General Backdoor Attacks on Retrieval Augmented Language Generation](https://arxiv.org/pdf/2405.20485) | 2025 | Arxiv | no Run|
 | [Trojanrag: Retrieval-augmented generation can be backdoor driver in large language models](https://arxiv.org/pdf/2405.13401) | 2024 | Arxiv | no Run|
-| [" Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417) | 2024 | Arxiv | no Run|
+| ["Glue pizza and eat rocks"--Exploiting Vulnerabilities in Retrieval-Augmented Generative Models](https://arxiv.org/pdf/2406.19417) | 2024 | Arxiv | no Run|
 | [Badrag: Identifying vulnerabilities in retrieval augmented generation of large language models](https://arxiv.org/pdf/2406.00083) | 2024 | Arxiv | no Run|
 | [TrojanRAG: Retrieval-Augmented Generation Can Be Backdoor Driver in Large Language Models](https://arxiv.org/abs/2405.13401) | 2025 | Arxiv | no Run|
 
