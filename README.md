@@ -9,15 +9,19 @@ This is a repo to show the recent RAG approaches. There are several research lin
 It have been proved that the LLM can be easily distracted by irrelevant context. To alleviate this, there are several methods to make the RAG more robust. 
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
+| [Making Retrieval-Augmented Language Models Robust to Irrelevant Context](https://arxiv.org/pdf/2310.01558) | 2023 | ICLR | no Run|
 | [SELF-RAG: LEARNING TO RETRIEVE, GENERATE, ANDCRITIQUE THROUGH SELF-REFLECTION](https://arxiv.org/pdf/2310.11511) | 2024 |  ICLR | |
+| [Certifiably robust rag against retrieval corruption(RobustRAG)](https://arxiv.org/pdf/2405.15556) | 2024 | Arxiv | no Run|
+| [Large language models can be easily distracted by irrelevant context](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | 2024 |  ICML | |
 | [A THEORY FOR TOKEN-LEVEL HARMONIZATION IN RETRIEVAL-AUGMENTED GENERATION](https://arxiv.org/pdf/2406.00944) | 2025 |  ICLR | no Run|
 | [Search-in-the-Chain: Interactively Enhancing Large Language Models with Search for Knowledge-intensive Tasks](https://arxiv.org/pdf/2304.14732) | 2025 | WWW | no Run|
-| [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884) | 2024 | Arxiv | no Run|
-| [Making Retrieval-Augmented Language Models Robust to Irrelevant Context](https://arxiv.org/pdf/2310.01558) | 2023 | ICLR | no Run|
-| [Large language models can be easily distracted by irrelevant context](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | 2024 |  ICML | |
+| [Corrective Retrieval Augmented Generation(CRAG)](https://arxiv.org/pdf/2401.15884) | 2024 | Arxiv | no Run|
 | [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210) | 2024 | EMNLP | no Run|
 | [RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects](https://arxiv.org/pdf/2501.18365?) | 2025 | Arxiv | no Run|
 | [ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search](https://arxiv.org/abs/2509.23519) | 2025 | NeurIPS | no Run|
+| [Astute rag: Overcoming imperfect retrieval augmentation and knowledge conflicts for large language models](https://arxiv.org/pdf/2410.07176) | 2024 | Arxiv | no Run|
+| [Instructrag: Instructing retrieval-augmented generation with explicit denoising](https://arxiv.org/abs/2406.13629) | 2025 | ICLR | no Run|
+| [TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.00879) | 2025 | Arxiv | no Run|
 
 #### attack the RAG system
 
