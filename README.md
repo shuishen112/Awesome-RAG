@@ -17,6 +17,7 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [Large language models can be easily distracted by irrelevant context](http://proceedings.mlr.press/v119/guu20a/guu20a.pdf) | 2024 |  ICML | |
 | [Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models](https://arxiv.org/abs/2311.09210) | 2024 | EMNLP | no Run|
 | [RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects](https://arxiv.org/pdf/2501.18365?) | 2025 | Arxiv | no Run|
+| [ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search](https://arxiv.org/abs/2509.23519) | 2025 | NeurIPS | no Run|
 
 #### attack the RAG system
 
@@ -42,6 +43,8 @@ It have been proved that the LLM can be easily distracted by irrelevant context.
 | [How can we know when language models know? on the calibration of language models for question answering](https://aclanthology.org/2021.tacl-1.57/) | 2021 | TACL | no Run|
 | [Corrective Retrieval Augmented Generation](https://arxiv.org/pdf/2401.15884) | 2024 | Arxiv | no Run|
 | [Confident Adaptive Language Modeling](https://arxiv.org/abs/2207.07061) | 2022 | NeurIPS | no Run|
+| [Retrieval-Augmented Generation with Estimation of Source Reliability](https://arxiv.org/pdf/2410.22954) | 2025 | EMNLP | no Run|
+| [REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering](https://arxiv.org/pdf/2402.17497) | 2024 | EMNLP | no Run|
 
 #### Retrieval-Augmented Language Model Pre-training
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
