@@ -67,7 +67,13 @@ Retreival augment generation (RAG) enhance the LLMs by retrived relevant documen
 | --------------- | :----: | :----: | :----: |
 | [KNOWLEDGE CARD: FILLING LLMS’ KNOWLEDGE GAPS WITH PLUG-IN SPECIALIZED LANGUAGE MODELS](https://arxiv.org/pdf/2305.09955) | 2024 |  ICLR | |
 | [DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering](https://arxiv.org/abs/2211.05655) | 2022 |  Arxiv | |
+| [Training Plug-and-Play Knowledge Modules with Deep Context Distillation](https://arxiv.org/pdf/2503.08727) | 2025 | COLM | no Run|
 
+## Benchmark
+|
+| **Paper Title** | **Year** | **Conference/Journal** | **Code** |
+| --------------- | :----: | :----: | :----: |
+| [LaRA: Benchmarking Retrieval-Augmented Generation and Long-Context LLMs - No Silver Bullet for LC or RAG Routing](https://arxiv.org/pdf/2502.09977) | 2025 |  ICML | [code](https://github.com/Alibaba-NLP/LaRA)|
 
 ## Application 
 
