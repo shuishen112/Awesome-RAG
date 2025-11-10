@@ -68,6 +68,7 @@ Retreival augment generation (RAG) enhance the LLMs by retrived relevant documen
 | [KNOWLEDGE CARD: FILLING LLMS’ KNOWLEDGE GAPS WITH PLUG-IN SPECIALIZED LANGUAGE MODELS](https://arxiv.org/pdf/2305.09955) | 2024 |  ICLR | |
 | [DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering](https://arxiv.org/abs/2211.05655) | 2022 |  Arxiv | |
 | [Training Plug-and-Play Knowledge Modules with Deep Context Distillation](https://arxiv.org/pdf/2503.08727) | 2025 | COLM | no Run|
+| [Plug-and-Play Document Modules for Pre-trained Models](https://arxiv.org/pdf/2305.17660) | 2023 | ACL | [code](https://github.com/thunlp/Document-Plugin)|
 
 ## Benchmark
 |
