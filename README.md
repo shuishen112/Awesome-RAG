@@ -69,6 +69,8 @@ Retreival augment generation (RAG) enhance the LLMs by retrived relevant documen
 | [DisentQA: Disentangling Parametric and Contextual Knowledge with Counterfactual Question Answering](https://arxiv.org/abs/2211.05655) | 2022 |  Arxiv | |
 | [Training Plug-and-Play Knowledge Modules with Deep Context Distillation](https://arxiv.org/pdf/2503.08727) | 2025 | COLM | no Run|
 | [Plug-and-Play Document Modules for Pre-trained Models](https://arxiv.org/pdf/2305.17660) | 2023 | ACL | [code](https://github.com/thunlp/Document-Plugin)|
+| [Parametric Retrieval Augmented Generation](https://arxiv.org/abs/2501.15915) | 2025 |  SIGIR | |
+| [LoRA-Augmented Generation (LAG) for Knowledge-Intensive Language Tasks](https://arxiv.org/pdf/2507.05346) | 2025 |  Arxiv | |
 
 ## Benchmark
 |
