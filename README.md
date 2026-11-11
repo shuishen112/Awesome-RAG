@@ -25,6 +25,8 @@ Retreival augment generation (RAG) enhance the LLMs by retrived relevant documen
 | [TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation](https://arxiv.org/pdf/2501.00879) | 2025 | Arxiv | no Run|
 | [ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search](https://arxiv.org/abs/2509.23519) | 2025 | NeurIPS | no Run|
 | [SeCon-RAG: A Two-Stage Semantic Filtering and Conflict-Free Framework for Trustworthy RAG](https://arxiv.org/abs/2510.09710) | 2025 | NeurIPS | no Run|
+| [ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15543) | 2025 | NeurIPS | [code](https://github.com/OpenBMB/ParamMute) |
+| [SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation](https://arxiv.org/abs/2606.27786) | 2026 | Arxiv | [code](https://github.com/OpenBMB/SPARK) |
 
 #### attack the RAG system
 
@@ -90,6 +92,7 @@ Retreival augment generation (RAG) enhance the LLMs by retrived relevant documen
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
 | --------------- | :----: | :----: | :----: |
 | [LLM-GUIDED HIERARCHICAL RETRIEVAL](https://arxiv.org/pdf/2510.13217) | 2025 | Arxiv | no Run|
+| [ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance](https://aclanthology.org/2025.emnlp-main.963/) | 2025 | EMNLP oral | [code](https://github.com/NEUIR/ExpandR) |
 
 ## Hallucination
 | **Paper Title** | **Year** | **Conference/Journal** | **Code** |
